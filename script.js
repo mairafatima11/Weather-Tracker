@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-// this file will handle api integration for fetching weather data
-=======
-// this file will handle api integration for fetching weather data
->>>>>>> api-integration
+// This file will handle API integration for fetching weather data
