@@ -1,1 +1,1 @@
-// this file will handle api integration for fetching weather data
+// This file will handle API integration for fetching weather data
